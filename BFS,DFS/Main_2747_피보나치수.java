@@ -1,6 +1,5 @@
-package a1107;
+package a1107; // Main_2747_피보나치수
 
-import java.io.*;
 import java.util.*;
 
 public class Main_2747_피보나치수 {
